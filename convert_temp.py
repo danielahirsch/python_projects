@@ -1,6 +1,6 @@
 # convert_temp.py
 # A program to convert Celsius to Fahrenheit
-# By: Daniela Hirsch
+# By: Ziva Hirsch
 
 def main(): 
   celsius = eval(input("What is the Celsius temperature? "))
